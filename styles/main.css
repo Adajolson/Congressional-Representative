@@ -1,0 +1,15 @@
+.governor {
+    display: flex;
+    align-items: left;
+}
+
+.gov-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.committees {
+    display: flex;
+    align-items: right;
+}
